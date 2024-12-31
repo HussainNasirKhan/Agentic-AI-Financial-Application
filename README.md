@@ -1,6 +1,5 @@
 Agentic AI Financial Application
 Agentic AI application to autonomously combine web search capabilities with real-time financial data analysis.
-
 🌟 Features
 Multi-Agent System: Combines specialized agents for comprehensive analysis
 Financial Agent: Real-time stock analysis and financial data processing
